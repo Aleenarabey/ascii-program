@@ -8,3 +8,9 @@ void main()
     printf("ascii valude of char %c=%d",ch,ch);
 
 }
+
+
+
+this is to check the ascii of character
+
+
